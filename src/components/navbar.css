@@ -1,0 +1,13 @@
+.menu{
+    float: left;
+    display: block;
+    background-color: burlywood;
+
+}
+.menu a{
+    float: left;
+    width: fit-content;
+}
+.menu a:hover{
+    background-color: aqua;
+}
